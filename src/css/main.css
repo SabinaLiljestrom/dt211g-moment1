@@ -12,7 +12,11 @@ h2 {
 h3 {
     margin: 1em 0 0.2em 0;
 }
-
+.bild {
+    width: 100%;
+    max-width: 550px;
+    height: auto;
+  }
 /* Design av Header */
 header {
     background-color: rgb(139, 154, 203);
