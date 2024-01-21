@@ -19,7 +19,7 @@ h3 {
   }
 /* Design av Header */
 header {
-    background-color: rgb(139, 154, 203);
+    background-color: rgb(251, 200, 137);
     height: 120px;
     opacity: 100%;;
     margin: 0;
@@ -32,7 +32,7 @@ header {
 
 /* Design av meny för mobilenheter, placeras till höger om skärmen */
 nav {
-    background-color: rgb(139, 154, 203);
+    background-color: rgb(251, 200, 137);
     box-shadow: 0 0px 10px rgba(0, 0, 0, 0.71);
     font-size: 1.4em;
     position: absolute;
@@ -66,7 +66,7 @@ nav a {
 }
 
 nav li:hover {
-    background-color: rgb(61, 106, 227);
+    background-color: rgb(255, 171, 44);
     cursor: pointer;
 }
 
@@ -75,7 +75,7 @@ nav li:hover {
     display: flex;
     align-items: center;
     padding: 8px 15px;
-    background-color:rgb(139, 154, 203);
+    background-color:rgb(251, 200, 137);
     border: white solid 2px;
     cursor: pointer;
 }
@@ -85,7 +85,7 @@ nav li:hover {
 }
 
 .menu-btn:hover {
-    background-color:   rgb(61, 106, 227);
+    background-color:   rgb(255, 171, 44);
     box-shadow: 0 0px 5px rgba(0, 0, 0, 0.421);
 }
 
