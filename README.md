@@ -1,3 +1,3 @@
 # dt211g-moment1
-## Automatisering & publicering
-Uppgiften är en del av kursen "Frontend-baserad webbutveckling".
+## Grunderna i TypeScript
+Uppgiften är en del av kursen "Programmering i TypeScript".
